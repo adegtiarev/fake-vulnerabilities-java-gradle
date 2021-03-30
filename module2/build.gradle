@@ -10,6 +10,7 @@ repositories {
 }
 
 dependencies {
+    implementation project(':module1')
     implementation 'org.apache.poi:poi:3.17'
 }
 

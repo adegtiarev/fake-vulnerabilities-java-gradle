@@ -11,7 +11,7 @@ repositories {
 
 dependencies {
     implementation project(':module2')
-    implementation 'org.bouncycastle:bcprov-jdk15on:1.55'
+    implementation 'org.bouncycastle:bcprov-jdk15on:1.66'
 }
 
 test {
